@@ -1,0 +1,5 @@
+first_name = "Chris"
+last_name = "Dang"
+
+puts first_name + ' ' + last_name
+puts "#{first_name} #{last_name}"
