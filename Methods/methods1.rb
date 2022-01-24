@@ -1,7 +1,7 @@
 #program that prints a greeting meessage
 
 def greeting(name)
-  puts "What's up " + name
+  "What is up " + name
 end
 
-greeting("Chris")
+puts greeting("Chris")
