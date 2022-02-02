@@ -4,5 +4,5 @@ while true
   puts entry 
   if entry == "STOP"
     break
-  end
+  end 
 end 
