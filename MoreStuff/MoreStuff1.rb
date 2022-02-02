@@ -1,5 +1,5 @@
 def has_lab?(string)
-  if string =~ /b/
+  if string =~ /lab/i
     puts string
   else
     puts "No match here."
